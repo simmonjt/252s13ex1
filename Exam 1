@@ -20,5 +20,6 @@ Address 1: <input type="text" name="Address 1">
 <input type="submit" value="Submit">
 </form>
 </body>
+   //Taken with help from w3schools.com//
 
 </html>
